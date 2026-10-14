@@ -36,7 +36,6 @@
 
 + **ei** + passiivi **minus an/än**
 
-
 | infinitivi | passiivi   | negatiivinen passiivi |
 | :--        | :--        | :--                   |
 | tanssia    | tanssitaan | ei tanssita           |

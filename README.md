@@ -2,6 +2,8 @@
 
 ## Imperfekti
 
+[Muistiinpanoja](docs/imperfekti_positiivinen.md)
+
 + [Imperfetkti I](https://wordwall.net/fi/resource/71438022/suomi-toisena-kielen%C3%A4/imperfekti)
 + [Imperfetkti II](https://wordwall.net/fi/resource/71343200/suomi-toisena-kielen%C3%A4/imperfekti)
 + [Imperfetkti +i](https://wordwall.net/fi/resource/92478466/s2/imperfekti-i)
