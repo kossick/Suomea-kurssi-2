@@ -41,7 +41,7 @@ Minä persoona vartalo + **i**
 Yleensä, jos 
 
 1. verbin vartalolla on t ja kaksi vokaalia tai n, r tai l t:n edessä, esim. lentää, piirtää, tuntea
-2. verbi loppuu taa/tää:n kanssa (tuntea on poikkeus)
+2. verbin pääte on taa tai tää (tuntea on poikkeus)
 
 + **ta/tä + i -> si**
 

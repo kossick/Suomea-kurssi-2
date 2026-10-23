@@ -11,7 +11,7 @@
 | lukea      | lue-         | luetaan  |
 | kysyä      | kysy-        | kysytään |
 
-+ jos vartalo on a tai ä lopussa: **a/ä -> e myös**
++ jos vartalon pääte on a tai ä: **a/ä -> e myös**
 
 | infinitivi | minä vartalo | a/ä -> e  | passiivi     |
 | :--        | :--          | :--       | :--          |
