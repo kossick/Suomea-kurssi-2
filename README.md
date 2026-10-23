@@ -21,6 +21,14 @@
 + [Passiivin preesens, mitä tehdään?](https://wordwall.net/fi/resource/70515363/suomi-toisena-kielen%C3%A4/passiivin-preesens-mit%C3%A4-tehd%C3%A4%C3%A4n)
 
 
+## Negatiivinen imperfekti
+
++ [Negatiivinen imperfekti I](https://wordwall.net/fi/resource/14932186)
++ [Negatiivinen imperfekti II](https://wordwall.net/fi/resource/71733306)
++ [Negatiivinen imperfekti III](https://wordwall.net/fi/resource/53820992)
++ [Negatiivinen imperfekti IV](https://wordwall.net/fi/resource/15711518)
+
+
 ## Hyödyllisiä linkkejä
 
 + [taivuta](https://taivuta.fi/)
