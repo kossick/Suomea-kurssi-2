@@ -23,6 +23,8 @@
 
 ## Negatiivinen imperfekti
 
+[Muistiinpanoja](docs/imperfekti_negatiivinen.md)
+
 + [Negatiivinen imperfekti I](https://wordwall.net/fi/resource/14932186)
 + [Negatiivinen imperfekti II](https://wordwall.net/fi/resource/71733306)
 + [Negatiivinen imperfekti III](https://wordwall.net/fi/resource/53820992)
