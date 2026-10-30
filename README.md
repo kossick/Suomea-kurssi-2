@@ -21,6 +21,11 @@
 + [Passiivin preesens, mitä tehdään?](https://wordwall.net/fi/resource/70515363)
 
 
+## Kolmen infinitiivi
+
+[Muistiinpanoja](docs/kolmen_infinitiivi.md)
+
+
 ## Negatiivinen imperfekti
 
 [Muistiinpanoja](docs/imperfekti_negatiivinen.md)
